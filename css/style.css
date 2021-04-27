@@ -1,0 +1,56 @@
+body{
+    background-color: gainsboro;
+    font-family: 'Courgette', cursive;
+    width: 100%;
+}
+header{
+    padding: 50%;
+    margin-top: 20%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 20%;
+    width: 100%;
+}
+header h1{
+    text-align: center;
+}
+main{
+    background-image: url(img/NX7PC.jpg);
+    /* [link from vsCode](img/NX7PC.jpg); */
+
+}
+footer{
+    padding: 50%;
+    margin-top: 20%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 20%;
+    width: 100%;
+}
+footer p{
+    text-align: center;
+}
+
+label{
+    color: rgb(26, 20, 20);
+    text-align: center;
+}
+
+table, th , tr , td{
+    border: whitesmoke;
+}
+th{
+    background-color: rgb(26, 20, 20);
+    color: whitesmoke;
+}
+
+tr, td{
+    background-color: gray;
+}
+
+form{
+    float: left;
+}
+table{
+    float: right;
+}
